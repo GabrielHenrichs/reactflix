@@ -18,7 +18,7 @@ function VideoCardGroup({
             {categoryTitle}
           </Title>
           {categoryExtraLink && 
-            <ExtraLink href={categoryExtraLink.url} target="_blank">
+            <ExtraLink href={categoryExtraLink.url} style={{ color: 'white' }} target="_blank">
               {categoryExtraLink.text}  
             </ExtraLink>
           }

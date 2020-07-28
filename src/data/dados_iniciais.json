@@ -1,183 +1,119 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "América do Sul",
+      "link": "https://www.youtube.com/channel/UCyuLjFPzlkMSYJpIpY8M6qA",
+      "cor": "#29cf08",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Assista a mais vídeos",
+        "url": "https://www.youtube.com/channel/UCyuLjFPzlkMSYJpIpY8M6qA"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "AMÉRICA DO SUL É RUBRO-NEGRA! Flamengo 2x1 River Plate - Final da Libertadores 2019 - Completo",
+          "url": "https://www.youtube.com/watch?v=zeJ3KpmgIwA"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Corinthians campeão da Libertadores Feminina 2019",
+          "url": "https://www.youtube.com/watch?v=HSl-6bQMowA"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Melhores Momentos | Independiente Del Valle 3x1 Colón | Final Sul-Americana 2019",
+          "url": "https://www.youtube.com/watch?v=vtsaEmYd7Uw"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Flamengo x Ind Del Valle | Recopa Sul-Americana | Melhores Momentos",
+          "url": "https://www.youtube.com/watch?v=RhLqQwUtk3s"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Melhores Momentos | Boca Juniors 1x0 River Plate | Semifinal Libertadores 2019",
+          "url": "https://www.youtube.com/watch?v=cGHrVSTIqw4&list=PLuwL8egE4MmrCPVptbSqRo-gGWdKzhIin&index=3"
+        }, 
+        {
+          "titulo": "Melhores Momentos | Flamengo 5x0 Grêmio | Libertadores 2019",
+          "url": "https://www.youtube.com/watch?v=vQmZMwrMNW4&list=PLuwL8egE4MmrCPVptbSqRo-gGWdKzhIin&index=2"
+        }, 
+        {
+          "titulo": "Melhores Momentos | Internacional 1x1 Flamengo | Quartas de final - Libertadores 2019",
+          "url": "https://www.youtube.com/watch?v=YIMh2AjO1ys&list=PLuwL8egE4MmrCPVptbSqRo-gGWdKzhIin&index=6"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Europa",
+      "cor": "#29cf08",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Assista a mais vídeos",
+        "url": "https://www.youtube.com/results?search_query=uefa"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Tottenham Hotspur 0-2 Liverpool - UCL Final 2019",
+          "url": "https://www.youtube.com/watch?v=Vz2Gt3vwi3w"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Veja lances de Chelsea 4 x 1 Arsenal pela Europa League",
+          "url": "https://www.youtube.com/watch?v=JiiwIZW3_hM"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "#UWCL 2019 final highlights: Lyon 4-1 Barcelona",
+          "url": "https://www.youtube.com/watch?v=5QpKQLx0G1s"
+        }, 
+        {
+          "titulo": "Melhores Momentos - REAL MADRID 3 X 1 LIVERPOOL Champions League 2018 Final",
+          "url": "https://www.youtube.com/watch?v=1Nx2nlELk0M"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Melhores Momentos - Juventus 1 x 4 Real Madrid - Final da Champions League (03/06/2017)",
+          "url": "https://www.youtube.com/watch?v=J37YyfvHXOQ"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Seleções",
+      "cor": "#29cf08",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Assista a mais vídeos",
+        "url": "https://www.youtube.com/channel/UCpcTrCXblq78GZrTUTLWeBw"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "2018 FIFA World Cup | The Official Film",
+          "url": "https://www.youtube.com/watch?v=MiAcU2DvbXM&list=PLCGIzmTE4d0ia-PWE7WoysqLao-0y7jEz&index=1"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "#WorldCupAtHome | France v Croatia (Russia 2018)",
+          "url": "https://www.youtube.com/watch?v=7Fau-IwbuJc&list=PLCGIzmTE4d0ia-PWE7WoysqLao-0y7jEz&index=2"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "The Best of the 2018 World Cup",
+          "url": "https://www.youtube.com/watch?v=EznKiydfQO4&list=PLCGIzmTE4d0ia-PWE7WoysqLao-0y7jEz&index=8"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "TOP 10 GOALS | 2018 FIFA World Cup Russia",
+          "url": "https://www.youtube.com/watch?v=Vw34wMAqWzc&list=PLCGIzmTE4d0ia-PWE7WoysqLao-0y7jEz&index=9"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
+      "titulo": "Resto do Mundo",
+      "cor": "#29cf08",
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Liverpool 1 x 0 Flamengo | FINAL Mundial de Clubes | HD 21/12/2019",
+          "url": "https://www.youtube.com/watch?v=mz7h-XIxpw0"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "#ACL2019 : AL HILAL SFC(KSA) 1-0 URAWA RED DIAMONDS(JPN)",
+          "url": "https://www.youtube.com/watch?v=OTUIPQnJ3o0"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "CAF Champions League 2018 Final: Al-Ahly (EGY) x Espérance de Tunis (TUN)",
+          "url": "https://www.youtube.com/watch?v=pWeiR1yV1ec"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Monterrey empata com Tigres por 1a 1 e conquista a CONCACAF Champions League",
+          "url": "https://www.youtube.com/watch?v=0m6aoFKh0qc"
         }
       ]
     }
