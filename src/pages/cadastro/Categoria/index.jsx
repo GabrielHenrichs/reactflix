@@ -29,8 +29,8 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const URL = window.location.includes('localhost')
-    ? 'http://localhost:8080'
+    const URL = window.location.hostname.includes('localhost')
+    ? 'http://localhost:8080/categorias'
     : 'https://futflix-alura.herokuapp.com/categorias';
     fetch(URL)
       .then(async (respostaDoServidor) => {
