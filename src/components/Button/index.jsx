@@ -1,9 +1,10 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 // styled(Link)
 const Button = styled.button` 
    color: #29cf08;
    border: 1px solid #29cf08;
+   background: rgba(0, 0, 0, 0);
    box-sizing: border-box;
    cursor: pointer;
    padding: 16px 24px;
