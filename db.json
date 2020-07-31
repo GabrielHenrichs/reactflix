@@ -1,16 +1,159 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "Front End",
-            "descricao": "aaaaa",
-            "cor": "#cbd1ff"
-        },
-        {
-            "id": 2,
-            "nome": "Back End",
-            "descricao": "bbbbb",
-            "cor": "#cbd1ff"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "América do Sul",
+      "link": "https://www.youtube.com/channel/UCyuLjFPzlkMSYJpIpY8M6qA",
+      "cor": "#29cf08",
+      "link_extra": {
+        "text": "Assista a mais vídeos",
+        "url": "https://www.youtube.com/channel/UCyuLjFPzlkMSYJpIpY8M6qA"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Europa",
+      "cor": "#29cf08",
+      "link_extra": {
+        "text": "Assista a mais vídeos",
+        "url": "https://www.youtube.com/results?search_query=uefa"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Seleções",
+      "cor": "#29cf08",
+      "link_extra": {
+        "text": "Assista a mais vídeos",
+        "url": "https://www.youtube.com/channel/UCpcTrCXblq78GZrTUTLWeBw"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Resto do Mundo",
+      "cor": "#29cf08"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "AMÉRICA DO SUL É RUBRO-NEGRA! Flamengo 2x1 River Plate - Final da Libertadores 2019 - Completo",
+      "url": "https://www.youtube.com/watch?v=zeJ3KpmgIwA"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Corinthians campeão da Libertadores Feminina 2019",
+      "url": "https://www.youtube.com/watch?v=HSl-6bQMowA"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Melhores Momentos | Independiente Del Valle 3x1 Colón | Final Sul-Americana 2019",
+      "url": "https://www.youtube.com/watch?v=vtsaEmYd7Uw"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Flamengo x Ind Del Valle | Recopa Sul-Americana | Melhores Momentos",
+      "url": "https://www.youtube.com/watch?v=RhLqQwUtk3s"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Melhores Momentos | Boca Juniors 1x0 River Plate | Semifinal Libertadores 2019",
+      "url": "https://www.youtube.com/watch?v=cGHrVSTIqw4&list=PLuwL8egE4MmrCPVptbSqRo-gGWdKzhIin&index=3"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Melhores Momentos | Flamengo 5x0 Grêmio | Libertadores 2019",
+      "url": "https://www.youtube.com/watch?v=vQmZMwrMNW4&list=PLuwL8egE4MmrCPVptbSqRo-gGWdKzhIin&index=2"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Melhores Momentos | Internacional 1x1 Flamengo | Quartas de final - Libertadores 2019",
+      "url": "https://www.youtube.com/watch?v=YIMh2AjO1ys&list=PLuwL8egE4MmrCPVptbSqRo-gGWdKzhIin&index=6"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Tottenham Hotspur 0-2 Liverpool - UCL Final 2019",
+      "url": "https://www.youtube.com/watch?v=Vz2Gt3vwi3w"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Veja lances de Chelsea 4 x 1 Arsenal pela Europa League",
+      "url": "https://www.youtube.com/watch?v=JiiwIZW3_hM"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "#UWCL 2019 final highlights: Lyon 4-1 Barcelona",
+      "url": "https://www.youtube.com/watch?v=5QpKQLx0G1s"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Melhores Momentos - REAL MADRID 3 X 1 LIVERPOOL Champions League 2018 Final",
+      "url": "https://www.youtube.com/watch?v=1Nx2nlELk0M"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Melhores Momentos - Juventus 1 x 4 Real Madrid - Final da Champions League (03/06/2017)",
+      "url": "https://www.youtube.com/watch?v=J37YyfvHXOQ"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "2018 FIFA World Cup | The Official Film",
+      "url": "https://www.youtube.com/watch?v=MiAcU2DvbXM&list=PLCGIzmTE4d0ia-PWE7WoysqLao-0y7jEz&index=1"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "#WorldCupAtHome | France v Croatia (Russia 2018)",
+      "url": "https://www.youtube.com/watch?v=7Fau-IwbuJc&list=PLCGIzmTE4d0ia-PWE7WoysqLao-0y7jEz&index=2"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "The Best of the 2018 World Cup",
+      "url": "https://www.youtube.com/watch?v=EznKiydfQO4&list=PLCGIzmTE4d0ia-PWE7WoysqLao-0y7jEz&index=8"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "TOP 10 GOALS | 2018 FIFA World Cup Russia",
+      "url": "https://www.youtube.com/watch?v=Vw34wMAqWzc&list=PLCGIzmTE4d0ia-PWE7WoysqLao-0y7jEz&index=9"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "Liverpool 1 x 0 Flamengo | FINAL Mundial de Clubes | HD 21/12/2019",
+      "url": "https://www.youtube.com/watch?v=mz7h-XIxpw0"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "#ACL2019 : AL HILAL SFC(KSA) 1-0 URAWA RED DIAMONDS(JPN)",
+      "url": "https://www.youtube.com/watch?v=OTUIPQnJ3o0"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "CAF Champions League 2018 Final: Al-Ahly (EGY) x Espérance de Tunis (TUN)",
+      "url": "https://www.youtube.com/watch?v=pWeiR1yV1ec"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Monterrey empata com Tigres por 1a 1 e conquista a CONCACAF Champions League",
+      "url": "https://www.youtube.com/watch?v=0m6aoFKh0qc"
+    }
+  ]
 }
